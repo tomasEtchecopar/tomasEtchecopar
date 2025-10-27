@@ -1,6 +1,6 @@
 👋 Hi, I’m Tomas Etchecopar
 
-🎓 I’m a Programming student at the National Technological University (UTN) – Mar del Plata.
+🎓 I’m a Programming student at Unicersidad Tecnológica Nacional (UTN) – Mar del Plata.
 
 💻 Languages: C, Java, HTML, CSS, JavaScript
 🧩 Frameworks & Libraries: Angular, Spring Boot
