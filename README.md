@@ -1,5 +1,4 @@
-<h3 align="center">Web Developer & Student</h3>
-<p align="center">Frontend-focused · Product-oriented</p>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <a href="mailto:tomasetchecopar2203@gmail.com">
@@ -19,11 +18,8 @@ Strong frontend background, currently expanding into backend development.
 
 ### Education
 
-🎓 **University Technical Degree in Programming**  
+- **University Technical Degree in Programming**  
 Universidad Tecnológica Nacional (2023-2025)  
-
-🎓 **B.Sc. in Software Engineering**  
-Universidad Nacional de Mar del Plata (2026-)
 
 ---
 
