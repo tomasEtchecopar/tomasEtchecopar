@@ -11,18 +11,6 @@
 
 ---
 
-I build web products by translating business requirements into usable systems.  
-Strong frontend background, currently expanding into backend development.
-
----
-
-### Education
-
-- **University Technical Degree in Programming**  
-Universidad Tecnológica Nacional (2023-2025)  
-
----
-
 ### Tech Stack
 
 <p>
@@ -45,4 +33,13 @@ Universidad Tecnológica Nacional (2023-2025)
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
 </p>
+
+---
+
+### Education
+
+- **University Technical Degree in Programming**  
+Universidad Tecnológica Nacional (2023-2025)  
+
+
 
